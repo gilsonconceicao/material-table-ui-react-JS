@@ -1,0 +1,12 @@
+.container_table {
+    display: block;
+    border-radius: 20px ;
+    max-width: 1200px;
+    margin: 30px auto;
+}
+
+@media screen and (max-width: 780px) {
+    .container_table {
+        margin: 6vh 5px;
+    }
+}

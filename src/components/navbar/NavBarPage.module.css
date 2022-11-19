@@ -1,0 +1,31 @@
+.headerPage {
+    background-color: #00000010;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.itemMenu {
+    text-decoration: none;
+    color: #141414;
+    display: block;
+}
+
+.logo {
+    display: block;
+    font-size: 40px;
+}
+
+
+.btnMenu {
+    background: none;
+    color: #141414;
+    font-size: 31px;
+    padding: 10px 11px;
+    cursor: pointer;
+    border-radius: 100%;    
+    border: none;
+}
+
+

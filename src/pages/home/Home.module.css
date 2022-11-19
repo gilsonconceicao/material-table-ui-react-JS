@@ -1,0 +1,12 @@
+.container_home {
+    display: block;
+    max-width: 1200px;
+    margin: 6vh auto;
+}
+
+
+@media screen and (max-width: 780px) {
+    .container_home {
+        margin: 6vh 20px;
+    }
+}
